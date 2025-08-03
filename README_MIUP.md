@@ -1,7 +1,7 @@
 # 📚 Scientific Publications Catalogue - G.B. Fairchild Invertebrate Museum (MIUP)
 
 Welcome to the official GitHub repository of the **G.B. Fairchild Invertebrate Museum** at the **University of Panama**.  
-This repository presents a curated catalog of scientific publications indexed in **SCOPUS**, highlighting the work of our researchers in entomology, biodiversity, ecology, and related fields.
+This repository presents a curated catalog of scientific publications indexed in **SCOPUS**, highlighting the work of our researchers in entomology, biodiversity, ecology, and related fields. 
 
 ---
 
